@@ -6,7 +6,8 @@ A simple PieChart library for Android
 Instructions
 ---------------------------------------
 
-Import the jar to your project
+Import the jar to your project and create a ist will contain all seperate Pies
+
 `List<PieItem> PieData = new ArrayList<PieItem>(0);` 
 
 Create your Pie pieces like this:	
