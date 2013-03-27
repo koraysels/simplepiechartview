@@ -8,11 +8,11 @@ Instructions
 
 Import the jar to your project and create a ist will contain all seperate Pies
 
-`List<PieItem> PieData = new ArrayList<PieItem>(0);` 
+`List<PieItem> pieData = new ArrayList<PieItem>(0);` 
 
 Create your Pie pieces like this:	
 
-`new PieItem(index, "Revenue",(float) percentage, color);`
+`new PieItem(index, labelString,(float) percentage, color);`
 
 And add them all to the PieData List,then you generate a Bitmap to draw the pie to like so 
  `Bitmap mBackgroundImage = Bitmap.createBitmap(Size, Size,
@@ -21,8 +21,8 @@ And add them all to the PieData List,then you generate a Bitmap to draw the pie 
           PieChartView pieChartView = new PieChartView(getBaseContext());
 
           pieChartView.setLabelFont(yourTypeface, textSize, textColor );
-          pieChartView.setGeometry(Size, Size, 0, 0, 0, 0);
-          pieChartView.setData(PieData);
+          pieChartView.setGeometry(size, size, 0, 0, 0, 0);
+          pieChartView.setData(pieData);
           pieChartView.invalidate();
           
           pieChartView.draw(new Canvas(mBackgroundImage));
