@@ -17,7 +17,7 @@
     <file path="/fragment.java" changelist="ed58a6be-0bf3-4ee4-8847-6e5c88f5b101" time="1364375734186" ignored="false" />
     <file path="/AndroidManifest.xml" changelist="ed58a6be-0bf3-4ee4-8847-6e5c88f5b101" time="1364375126134" ignored="false" />
     <file path="$PROJECT_DIR$/../Freelance app/ECLIPSE-twee/freelancer-apk/src/com/axxes/netinc/graph/PieChartView.java" changelist="ed58a6be-0bf3-4ee4-8847-6e5c88f5b101" time="1364375170916" ignored="false" />
-    <file path="$PROJECT_DIR$/../Freelance app/ECLIPSE-twee/freelancer-apk/src/com/axxes/netinc/ProjectDetailFragment.java" changelist="ed58a6be-0bf3-4ee4-8847-6e5c88f5b101" time="1364376457406" ignored="false" />
+    <file path="$PROJECT_DIR$/../Freelance app/ECLIPSE-twee/freelancer-apk/src/com/axxes/netinc/ProjectDetailFragment.java" changelist="ed58a6be-0bf3-4ee4-8847-6e5c88f5b101" time="1364381648098" ignored="false" />
     <file path="/ProjectDetailFragment.java" changelist="ed58a6be-0bf3-4ee4-8847-6e5c88f5b101" time="1364375654852" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -80,7 +80,7 @@
       <file leaf-file-name="PieChartView.java" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/com/koraysels/SimplePieChartView/PieChartView.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="101" column="80" selection-start="3315" selection-end="3315" vertical-scroll-proportion="0.5535714">
+            <state line="101" column="80" selection-start="3315" selection-end="3315" vertical-scroll-proportion="0.3392857">
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -123,8 +123,8 @@
     </option>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="363" />
-    <option name="y" value="220" />
+    <option name="x" value="211" />
+    <option name="y" value="117" />
     <option name="width" value="1666" />
     <option name="height" value="988" />
   </component>
@@ -352,7 +352,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="363" y="220" width="1666" height="988" extended-state="0" />
+    <frame x="211" y="117" width="1666" height="988" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -454,7 +454,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/com/koraysels/SimplePieChartView/PieChartView.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="101" column="80" selection-start="3315" selection-end="3315" vertical-scroll-proportion="0.5535714">
+        <state line="101" column="80" selection-start="3315" selection-end="3315" vertical-scroll-proportion="0.3392857">
           <folding>
             <element signature="imports" expanded="true" />
           </folding>

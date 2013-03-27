@@ -12,9 +12,18 @@
 bin/
 gen/
 
+
+
 # Local configuration file (sdk path, etc)
 local.properties
 
 # Eclipse project files
 .classpath
 .project
+local.properties
+.project
+*.iml
+.idea/
+build.xml
+lint.xml
+/tests/res
