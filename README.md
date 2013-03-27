@@ -18,14 +18,14 @@ And add them all to the PieData List,then you generate a Bitmap to draw the pie 
  `Bitmap mBackgroundImage = Bitmap.createBitmap(Size, Size,
                 Bitmap.Config.ARGB_4444);`
 
-          PieChartView PieChartView = new PieChartView(getBaseContext());
+          PieChartView pieChartView = new PieChartView(getBaseContext());
 
-          PieChartView.setLabelFont(yourTypeface, textSize, textColor );
-          PieChartView.setGeometry(Size, Size, 0, 0, 0, 0);
-          PieChartView.setData(PieData);
-          PieChartView.invalidate();
+          pieChartView.setLabelFont(yourTypeface, textSize, textColor );
+          pieChartView.setGeometry(Size, Size, 0, 0, 0, 0);
+          pieChartView.setData(PieData);
+          pieChartView.invalidate();
           
-          PieChartView.draw(new Canvas(mBackgroundImage));
+          pieChartView.draw(new Canvas(mBackgroundImage));
           
           ImageView mPieImageView = new ImageView(context);
     
