@@ -14,7 +14,7 @@ Create your Pie pieces like this:
 
 `new PieItem(index, "Revenue",(float) percentage, color);`
 
-And add them all to the PieData List,then you generate a Bitmap like so 
+And add them all to the PieData List,then you generate a Bitmap to draw the pie to like so 
  `Bitmap mBackgroundImage = Bitmap.createBitmap(Size, Size,
                 Bitmap.Config.ARGB_4444);`
 
