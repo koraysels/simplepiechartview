@@ -1,0 +1,9 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="SimplePieChartView:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/SimplePieChartView_jar</output-path>
+    <root id="archive" name="SimplePieChartView.jar">
+      <element id="module-output" name="SimplePieChartView" />
+      <element id="android-final-package" facet="SimplePieChartView/android/Android" />
+    </root>
+  </artifact>
+</component>
